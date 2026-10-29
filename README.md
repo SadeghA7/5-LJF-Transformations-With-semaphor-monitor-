@@ -7,6 +7,7 @@ Folder 'A-LJF_SEM'
 - ljf_semaphore.py
 - output.txt
 - output.png
+---
 Folder 'B-LJF_Mon'
 ---
 - LJF_Monitor_Implementation.docx
@@ -14,6 +15,7 @@ Folder 'B-LJF_Mon'
 - ljf_monitor.py
 - output.txt
 - output.png
+---
 Folder 'C-LJF_SEM_Mon'
 ---
 - LJF_Hybrid_Monitor_Semaphore.docx
